@@ -1,3 +1,5 @@
 Esta es la historia de como aprendi a Porgramar 
 
 comensamos otra prueva con git 
+
+Realisamos otra prueba de commit con git 2
